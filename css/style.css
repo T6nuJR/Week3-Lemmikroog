@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-color: rgb(180, 202, 245);
+    font-family: "Lato", sans-serif;
+    line-height: 2;
+}
+
+.ingredients {
+    border: 1px black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    color: rgb(9, 0, 90);
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.ingredients h2{
+    text-align: center;
+}
+
+div.gallery {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: rgb(9, 0, 90);
+}
+
+.instructions h2 {
+    text-align: center;
+}
+
+.source {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+}
